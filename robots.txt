@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://translate-your-world.onrender.com/sitemap.xml
